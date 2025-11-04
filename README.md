@@ -22,7 +22,7 @@ fields_of_interest:
     "Machine Learning",
     ]
 
-2026_goals:["Create 5+ Projects"]
+2026_goals: ["Create 5+ Projects"]
 hobbies: ["Running", "Reading", "Painting", "Embroidery", "Investing"]
 languages_i_would_like_to_learn: ["Spanish", "Portuguese"]
 
