@@ -1,10 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning
+- 👯 I’m looking to collaborate on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-
+  <img src="https://media1.tenor.com/m/ujtysPw05X8AAAAC/wall-e-waving.gif" alt="Fun Robot GIF" width="150"/>
 
 ## 👩🏾‍💻 A little about me and my interests
 
@@ -54,8 +53,6 @@ languages_i_would_like_to_learn: ["Spanish", "Portuguese"]
   <img src="https://github-readme-stats.vercel.app/api?username=ambriapearce&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambriapearce&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
-
 
 
 
