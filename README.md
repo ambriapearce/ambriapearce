@@ -55,10 +55,6 @@ languages_i_would_like_to_learn: ["Spanish", "Portuguese"]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambriapearce&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-![Snake animation](https://ambriapearce.github.io/ambriapearce/github-contribution-grid-snake.svg)
-
-
-
 
 
 
