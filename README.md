@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on
+- 🔭 I’m currently working on exploring how greenhouse gas emissions and climate change contribute to natural disasters like Hurricane Melissa. 
+- 🌱 I’m currently looking into HTML.
+
 
   <img src="https://media1.tenor.com/m/ujtysPw05X8AAAAC/wall-e-waving.gif" alt="Fun Robot GIF" width="150"/>
 
