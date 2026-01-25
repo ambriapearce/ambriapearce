@@ -1,6 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on exploring how greenhouse gas emissions and climate change contribute to natural disasters like Hurricane Melissa. 
-- 🌱 I’m currently looking into HTML.
+
+I am an aspiring data sciectist with a background in neuroscience, motivated by the long-term goal of using data and AI to help design and infrom fairer eductaion and health systems for children, young people and underrepresented communities.
+
+## Current projects 🔥
+- 🔭 I'm currently working on exploring how greenhouse gas emmissions and climate change contribute to natural disasters such as Hurricane Melissa. My aim is to use data to highlight how countries that contribute the least to global emmisions are disproportionately affected by climate disasters. Through this, I'm interested in examining how historical and ongoing structures such as neocolonism, global inequality and political neglect shape vulnerability, response and recovery.
+  
+- 🌱 I’m also conducting an exploratory analysis of how young careers are identified and overlooked in large-scale child wellbeing data, reflecting my long term goal of applying ethical data science to inform fairer social and health systems.
 
 
   <img src="https://media1.tenor.com/m/ujtysPw05X8AAAAC/wall-e-waving.gif" alt="Fun Robot GIF" width="150"/>
