@@ -19,6 +19,9 @@ fields_of_interest:
    [
     "Data Science",
     "Machine Learning",
+    "Social Impact",
+    "Global Health",
+    "Education systems",
     ]
 
 2026_goals: ["Create 5+ Projects"]
