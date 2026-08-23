@@ -61,12 +61,6 @@ fields_of_interest:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-## My GitHub History!
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambriapearce&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambriapearce&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 
 
