@@ -3,7 +3,7 @@
 🌱 I am an aspiring data scientist with a background in neuroscience, interested in using data science to better understand international development and social inequality. I am particularly interested in how data can be used to investigate challenges such as poverty, inequality, climate vulnerability, urban development and access to essential services. I want to use data-driven insights to support policy and decision-making.
 
 ## Current projects 🔥
-- 🔭 I'm currently working on exploring how climate change and greenhouse gas emissions relate to increasing risks faced by vulnerable countries, using Hurricane Melissa as a case study. My aim is to use data to highlight how countries that contribute the least to global emissions are disproportionately affected by climate disasters. Through this, I'm interested in examining how historical and ongoing structures such as neocolonialism, global inequality and political neglect shape vulnerability, response and recovery.
+- 🔭 Currently building an Excel country-risk dashboard using World Bank data to answer: where should a development finance institution focus investment across emerging economies?
 
 
   <img src="https://media1.tenor.com/m/ujtysPw05X8AAAAC/wall-e-waving.gif" alt="Fun Robot GIF" width="150"/>
