@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🌱 I am an aspiring data scientist with a background in neuroscience, interested in using data science to better understand international development and social inequality. I am particularly interested in how data can be used to investigate challenges such as poverty, inequality, climate vulnerability, urban development and access to essential services. I want to use data-driven insights to support policy and decision-making.
+🌱I'm a data scientist with a background in neuroscience and a master's in data science, focused on using data to understand international development, economic inequality and global trade. I'm interested in how evidence can explain challenges like poverty, climate vulnerability, urban development and access to essential services, and how the same analytical tools used to assess economic risk and opportunity can turn those insights into better policy and investment decisions.
+
+I'm currently building projects in economic analysis.Interested in roles at international organisations, development finance and financial institutions.
 
 ## Current projects 🔥
 - 🔭 Currently building an Excel country-risk dashboard using World Bank data to answer: where should a development finance institution focus investment across emerging economies?
