@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-🌱I'm a data scientist with a background in neuroscience and a master's in data science, focused on using data to understand international development, economic inequality and global trade. I'm interested in how evidence can explain challenges like poverty, climate vulnerability, urban development and access to essential services, and how the same analytical tools used to assess economic risk and opportunity can turn those insights into better policy and investment decisions.
-
-I'm currently building projects in economic analysis.Interested in roles at international organisations, development finance and financial institutions.
+🌱I'm a data scientist with a background in neuroscience and a master's in data science, focused on using data to explore hard questions about our world. I'm interested in climate resilience, sustainable infrastructure, development, inequality and cities.
 
 ## Current projects 🔥
-- 🔭 Currently building an Excel country-risk dashboard using World Bank data to answer: where should a development finance institution focus investment across emerging economies?
+- 🔭 Currently building an analysis of life expectancy vs income vs climate vulnerability using World Bank Data.
+The question: "What countries have better or worse life expectancy than their income predicts and does climate vulnerability help explain the gap?"
 
 
   <img src="https://media1.tenor.com/m/ujtysPw05X8AAAAC/wall-e-waving.gif" alt="Fun Robot GIF" width="150"/>
@@ -13,31 +12,35 @@ I'm currently building projects in economic analysis.Interested in roles at inte
 ## 👩🏾‍💻 A little about me and my interests
 
 ```yaml
+
 name: Ambria Pearce
 located_in: United Kingdom & Canada
+
 education:
    [
-"Master's in Data Science",
-"Bachelor of Science in Neuroscience",
+     "Master's in Data Science",
+     "Bachelor of Science in Neuroscience",
    ]
 
 fields_of_interest:
-   [
-    "International Development",
-    "Data Science",
-    "Data Analytics",
-    "Urban Analytics",
-    "Geospatial Data",
-    "Climate and Development",
-    "Social Inequality"
+    [
+      "Data Science",
+      "Data Analytics",
+      "Climate and Sustainability",
+      "Climate Resilience",
+       "International Development",
+       "Urban Analytics",
+       "Geospatial Data",
+       "Social Inequality"
     ]
 
 2027_goals:
 [
-"Build a portfolio focused on international development",
-"Develop strong skills in SQL, statistics and data visualisation",
-"Develop geospatial data analysis skills",
-"Build experience applying data science to real-world development problems"
+  "Build a portfolio exploring global challenges",
+  "Strengthen my skills in SQL, statistics and data visualisation",
+  "Develop geospatial data analysis skills",
+  "Explore how data can support climate resilience and sustainable
+    infrastructure"
 ]
 
 ```
