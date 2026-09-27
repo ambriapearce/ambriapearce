@@ -1,14 +1,15 @@
-## Hi there 👋
+## Hi there 👋🌱
 
-🌱I'm a data scientist with a background in neuroscience and a master's in data science, focused on using data to explore hard questions about our world. I'm interested in climate resilience, sustainable infrastructure, development, inequality and cities.
+I'm a data scientist with a background in neuroscience and a master's in data science, focused on using data to explore hard questions about our world. I'm interested in climate resilience, sustainable infrastructure, development, inequality and cities. 
 
-## Currently working on 🔥
-- 🔭 Currently building an analysis of life expectancy vs income vs climate vulnerability using World Bank Data.
-The question: "What countries have better or worse life expectancy than their income predicts and does climate vulnerability help explain the gap?"
+## Currently working on 🔥 
+
+Currently building an analysis of life expectancy vs income vs climate vulnerability using World Bank Data.  
+**The question:** "What countries have better or worse life expectancy than their income predicts and does climate vulnerability help explain the gap?"
 
 ## GitHub structure
 
-My repositories are organised into a few areas:  
+**My repositories are organised into a few areas:**
 
 🎓 masters-projects — Data science projects completed during my Master's degree.  
 💻 independent-projects — Data science projects I develop independently after graduation.  
