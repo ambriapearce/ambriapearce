@@ -12,7 +12,7 @@ My repositories are organised into a few areas:
 
 🎓 masters-projects — Data science projects completed during my Master's degree.  
 💻 independent-projects — Data science projects I develop independently after graduation.  
-🪐 personal-projects — Personal, creative and just-for-fun projects outside of my data science work.
+🪐 personal-projects — Personal, creative and just for fun projects outside of my data science work.
 
 
   <img src="https://media1.tenor.com/m/ujtysPw05X8AAAAC/wall-e-waving.gif" alt="Fun Robot GIF" width="150"/>
