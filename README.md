@@ -8,10 +8,10 @@ The question: "What countries have better or worse life expectancy than their in
 
 ## GitHub structure
 
-My repositories are organised into a few areas:
+My repositories are organised into a few areas:  
 
-🎓 masters-projects — Data science projects completed during my Master's degree.
-💻 independent-projects — Data science projects I develop independently after graduation.
+🎓 masters-projects — Data science projects completed during my Master's degree.  
+💻 independent-projects — Data science projects I develop independently after graduation.  
 🪐 personal-projects — Personal, creative and just-for-fun projects outside of my data science work.
 
 
