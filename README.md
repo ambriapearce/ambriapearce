@@ -2,9 +2,17 @@
 
 🌱I'm a data scientist with a background in neuroscience and a master's in data science, focused on using data to explore hard questions about our world. I'm interested in climate resilience, sustainable infrastructure, development, inequality and cities.
 
-## Current projects 🔥
+## Currently working on 🔥
 - 🔭 Currently building an analysis of life expectancy vs income vs climate vulnerability using World Bank Data.
 The question: "What countries have better or worse life expectancy than their income predicts and does climate vulnerability help explain the gap?"
+
+## GitHub structure
+
+My repositories are organised into a few areas:
+
+🎓 masters-projects — Data science projects completed during my Master's degree.
+💻 independent-projects — Data science projects I develop independently after graduation.
+🪐 personal-projects — Personal, creative and just-for-fun projects outside of my data science work.
 
 
   <img src="https://media1.tenor.com/m/ujtysPw05X8AAAAC/wall-e-waving.gif" alt="Fun Robot GIF" width="150"/>
